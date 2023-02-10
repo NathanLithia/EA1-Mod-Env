@@ -1,0 +1,9 @@
+UnityExplorer 4.9.0 initializing...
+[UniverseLib] UniverseLib 1.5.1 initializing...
+[UniverseLib] Finished UniverseLib initial setup.
+[UniverseLib] Initialized Legacy Input support
+[UniverseLib] Loaded legacy.5.6 bundle for Unity 5.6.5p1
+[UniverseLib] UniverseLib 1.5.1 initialized.
+Creating UI...
+
+UnityExplorer 4.9.0 (Mono) initialized.
